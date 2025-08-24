@@ -58,6 +58,15 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
 
 ### 📊 Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian&Moreira98_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
