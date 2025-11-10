@@ -2,7 +2,9 @@
 🎯 Busco minha primeira oportunidade como desenvolvedor.
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade FAM (1º semestre).
+
 💡 Atualmente aprimorando minhas habilidades em C#, MySQL e JavaScript.
+
 🚀 Em busca de uma oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor.
 
 ### 🤖 Linguagens e Tecnologias
