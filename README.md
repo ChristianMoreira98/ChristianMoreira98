@@ -1,4 +1,4 @@
-👋 Olá! Sou Christian Moreira, desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas.
+👋 Olá! Sou o Christian Moreira, desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas.
 🎯 Busco minha primeira oportunidade como desenvolvedor.
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade FAM (1º semestre).
