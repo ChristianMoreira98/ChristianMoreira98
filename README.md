@@ -1,7 +1,9 @@
-## Olá, eu sou o Christian Moreira, estudante e desenvolvedor na área de tecnologia!
+👋 Olá! Sou Christian Moreira, desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas.
+🎯 Busco minha primeira oportunidade como desenvolvedor.
 
-- 🖥️ Estudando Análise e Desenvolvimento de Sistemas na Fculdade FAM (1º Semestre)
-- 👨‍💼 Atualmente procurando emprego na área
+🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade FAM (1º semestre).
+💡 Atualmente aprimorando minhas habilidades em C#, MySQL e JavaScript.
+🚀 Em busca de uma oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -78,6 +80,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moreirachristian575@gmail.com)
 
 
 
