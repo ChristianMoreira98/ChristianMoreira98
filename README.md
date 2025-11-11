@@ -96,9 +96,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/drive/u/0/folders/1NpSR1SEj4GWpw1Ka6plP5be_R84QAJnW" target="_blank" tabindex="-1">
-    <img src="https://img.shields.io/badge/Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Currículo-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=0A66C2"/>
   </a>
 </p>
+
 
 
 
