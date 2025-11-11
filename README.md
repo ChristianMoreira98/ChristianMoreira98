@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/SEU_ID_DO_CURRICULO/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/drive/u/0/folders/1NpSR1SEj4GWpw1Ka6plP5be_R84QAJnW" target="_blank">
   <img src="https://img.shields.io/badge/Google Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
