@@ -89,9 +89,6 @@
 ### 📫 Contatos
 
 <p align="left">
-  <a href="mailto:moreirachristian575@gmail.com" tabindex="-1">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/christian-moreira-527385228" target="_blank" tabindex="-1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
