@@ -87,15 +87,20 @@
 <br>
 
 ### 📫 Contatos
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moreirachristian575@gmail.com)
+### 📫 Contatos
 
-<a href="https://www.linkedin.com/in/christian-moreira-527385228" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="mailto:moreirachristian575@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/christian-moreira-527385228" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/drive/u/0/folders/1NpSR1SEj4GWpw1Ka6plP5be_R84QAJnW" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://drive.google.com/drive/u/0/folders/1NpSR1SEj4GWpw1Ka6plP5be_R84QAJnW" target="_blank">
-  <img src="https://img.shields.io/badge/Google Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
 
 
 
