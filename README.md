@@ -3,7 +3,7 @@
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade FAM (2º semestre).
 
-💡 Atualmente aprimorando minhas habilidades em C#, MySQL e JavaScript.
+💡 Atualmente aprimorando minhas habilidades em Python, MySQL e JavaScript.
 
 🚀 Em busca de uma oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor.
 
