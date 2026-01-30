@@ -97,6 +97,7 @@
   </a>
 </p>
 
+![ChristianMoreira98 GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianMoreira98&show_icons=true&theme=dracula)
 
 
 <picture align="center">
