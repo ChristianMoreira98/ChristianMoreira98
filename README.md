@@ -1,92 +1,49 @@
-👋 Olá! Sou o Christian Moreira, desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas.
-🎯 Busco minha primeira oportunidade como desenvolvedor.
+<div align="center">
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade FAM, atualmente no 2º semestre.
+# Olá, sou o Christian 👋
 
-💡 Atualmente aprimorando minhas habilidades em Python, MySQL e JavaScript.
+Estudante de Análise e Desenvolvimento de Sistemas, em busca da primeira oportunidade como desenvolvedor.
 
-🚀 Em busca de uma oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor.
+</div>
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### Sobre mim
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FAM
+- 💡 Aprimorando habilidades em **Python, MySQL e JavaScript**
+- 🚀 Em busca de uma oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor
+- 📍 São Paulo - SP
 
+---
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-
-<br>
-
-### 📫 Contatos
+### Tecnologias
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/christian-moreira-527385228" target="_blank" tabindex="-1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+### Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/christian-moreira-527385228">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://drive.google.com/drive/u/0/folders/1NpSR1SEj4GWpw1Ka6plP5be_R84QAJnW" target="_blank" tabindex="-1">
-    <img src="https://img.shields.io/badge/Currículo-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=0A66C2"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Currículo-000000?style=flat&logo=readdotcv&logoColor=white" alt="Currículo"/>
   </a>
 </p>
 
+---
 
-
-
-
+<div align="center">
+<sub>Aberto a oportunidades como desenvolvedor júnior/estagiário</sub>
+</div>
